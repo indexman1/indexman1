@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indexman1
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me ...
 
